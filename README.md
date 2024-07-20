@@ -40,7 +40,7 @@
 #### Get Previous Mentor
  - api/students/changeMentor/:id
 ## API Documentation Link
- - https://documenter.getpostman.com/view/37097339/2sA3kUGhS3
+ - https://documenter.getpostman.com/view/37097339/2sA3kUGhfH
 ## Packages Used
  - express
  - nodedmon
